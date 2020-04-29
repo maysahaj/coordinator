@@ -248,13 +248,7 @@ footer{
 .logo{
   display: none;
 }
-.space{
-  background: #000;
-  margin: 0 auto;
-  height: 30px;
-  width:70px;
 
-}
 /*/* backTop*/
 .backTop{
   position: fixed;
