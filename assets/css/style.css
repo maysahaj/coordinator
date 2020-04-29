@@ -343,6 +343,23 @@ header{
 .space{
   display: none;
 }
+.backTop{
+  position: fixed;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #f1eb28;
+  color:#000;
+  text-align: center;
+  right: 20px;
+  bottom: 10px;
+  border:2px solid #000;
+  font-size: 18px;
+  line-height: 28px;
+  z-index: 10;
+  transition-duration: 0.2s;
+  display: none;
+}
 
 }
 @media (max-width: 1024px) {   /* responsive mobiles and small devicess*/
