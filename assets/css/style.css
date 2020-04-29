@@ -284,6 +284,9 @@ footer{
     font-size: 10px;
 
   }
+  .app-section .desc{
+    font-size: 12px;
+  }
   .descCoor h2 {
     font-size: 22px;
 }
