@@ -248,6 +248,13 @@ footer{
 .logo{
   display: none;
 }
+.space{
+  background: #000;
+  margin: 0 auto;
+  height: 30px;
+  width:70px;
+
+}
 @media (max-width: 992px) {   /* responsive mobiles and small devicess*/
   .app-section .row .col-md-6{
     margin-top:20px;
@@ -285,6 +292,9 @@ footer{
 
 
 }
+.row1{
+  margin-top: 20px;
+}
 
 
 .navbar-toggler {
@@ -308,6 +318,9 @@ header{
 }
 .logo img{
   width:140px;
+}
+.space{
+  display: none;
 }
 
 }
