@@ -313,6 +313,10 @@ footer{
 
 
 }
+.fa-bars{
+  color:#000;
+  font-size: 22px;;
+}
 .row1{
   margin-top: 20px;
 }
@@ -359,6 +363,11 @@ header{
   z-index: 10;
   transition-duration: 0.2s;
   display: none;
+}
+.app-section .desc {
+  font-size: 10px;
+  text-align: left;
+  text-transform: none;
 }
 
 }
