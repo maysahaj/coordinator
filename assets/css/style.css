@@ -103,7 +103,8 @@ color: #f1eb28;
 
 }
 .app-section .desc{
-  font-size: 14px;
+  font-size: 15px;
+  text-transform: none;
 }
 .descCoor{
   color: #000;
