@@ -370,7 +370,12 @@ header{
   text-align: left;
   text-transform: none;
 }
-
+.sq:before {
+display: none;
+}
+.sq2:before {
+  display: none;
+  }
 }
 @media (max-width: 1024px) {   /* responsive mobiles and small devicess*/
   .navbar-dark .navbar-nav .nav-link {
